@@ -1,0 +1,4 @@
+Powershell commands
+
+open-file
+cat
