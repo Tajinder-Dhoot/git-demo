@@ -6,3 +6,4 @@ command 3
 6
 tag added in line 7
 line 8
+another line after tag added
