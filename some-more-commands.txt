@@ -1,6 +1,8 @@
 just another command 1
 another command 2
-anoother command 3
+<<<<<<< HEAD
+command 3
 another 4
 command 5
 command 6
+=======
